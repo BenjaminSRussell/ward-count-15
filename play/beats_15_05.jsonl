@@ -531,3 +531,6 @@
 {"n":531,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Stockyard fence. Nobody past the west court. We push in 2 steps. Direct on the left lane, open."}
 {"n":532,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence west court. Ivo keeps the barrel for the push. 3 steps, direct on the left lane, open."}
 {"n":533,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. direct left open. 4 steps. The barrel stays for the push."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the west court. We push in 5 steps. Direct on the left lane, open."}
+{"n":535,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west court. Bess keeps the barrel for the push. 6 steps, direct on the left lane, open."}
+{"n":536,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west court. direct left open. 7 steps. The barrel stays for the push."}
