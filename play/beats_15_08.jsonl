@@ -786,3 +786,6 @@
 {"n":786,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at South stair. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
 {"n":787,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east court. Bess keeps the drum for the push. 3 steps, direct on the left lane, open."}
 {"n":788,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. direct left open. 4 steps. The drum stays for the push."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the pier. Nobody past the east court. We push in 5 steps. Direct on the left lane, open."}
+{"n":790,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east court. Matt keeps the drum for the push. 6 steps, direct on the left lane, open."}
+{"n":791,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east court. direct left open. 7 steps. The drum stays for the push."}
