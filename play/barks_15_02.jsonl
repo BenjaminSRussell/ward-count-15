@@ -916,3 +916,6 @@
 {"n":916,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north yard. Ivo keeps the badge door for the push. 5 steps, direct on the left lane, open."}
 {"n":917,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north yard. direct left open. 6 steps. The badge door stays for the push."}
 {"n":918,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at the pier. Nobody past the north yard. We push in 7 steps. Direct on the left lane, open."}
+{"n":919,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north yard. Bess keeps the badge door for the push. 8 steps, direct on the left lane, open."}
+{"n":920,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north yard. direct left open. 2 steps. The badge door stays for the push."}
+{"n":921,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Clinic roof. Nobody past the north yard. We push in 3 steps. Direct on the left lane, open."}
