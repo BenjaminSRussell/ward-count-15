@@ -133,3 +133,6 @@
 {"n":133,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. direct left open. 2 steps. The rebar stays for the push."}
 {"n":134,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Switchyard. Nobody past the west court. We push in 3 steps. Direct on the left lane, open."}
 {"n":135,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west court. Bess keeps the rebar for the push. 4 steps, direct on the left lane, open."}
+{"n":136,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. direct left open. 5 steps. The rebar stays for the push."}
+{"n":137,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Drydock. Nobody past the west court. We push in 6 steps. Direct on the left lane, open."}
+{"n":138,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock west court. Matt keeps the rebar for the push. 7 steps, direct on the left lane, open."}
