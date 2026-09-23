@@ -810,3 +810,6 @@
 {"n":810,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. direct left open. 6 steps. The crate stays for the push."}
 {"n":811,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Switchyard. Nobody past the east court. We push in 7 steps. Direct on the left lane, open."}
 {"n":812,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the crate for the push. 8 steps, direct on the left lane, open."}
+{"n":813,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. direct left open. 2 steps. The crate stays for the push."}
+{"n":814,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Switchyard. Nobody past the east court. We push in 3 steps. Direct on the left lane, open."}
+{"n":815,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east court. Bess keeps the crate for the push. 4 steps, direct on the left lane, open."}
