@@ -435,3 +435,6 @@
 {"n":435,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at the pier. Nobody past the west court. We push in 4 steps. Direct on the left lane, open."}
 {"n":436,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier west court. Ivo keeps the hydrant for the push. 5 steps, direct on the left lane, open."}
 {"n":437,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west court. direct left open. 6 steps. The hydrant stays for the push."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at the pier. Nobody past the west court. We push in 7 steps. Direct on the left lane, open."}
+{"n":439,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west court. Bess keeps the hydrant for the push. 8 steps, direct on the left lane, open."}
+{"n":440,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west court. direct left open. 2 steps. The hydrant stays for the push."}
