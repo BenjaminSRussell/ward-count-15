@@ -748,3 +748,6 @@
 {"n":748,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north yard. Ivo keeps the drum for the push. 5 steps, direct on the left lane, open."}
 {"n":749,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north yard. direct left open. 6 steps. The drum stays for the push."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at the pier. Nobody past the north yard. We push in 7 steps. Direct on the left lane, open."}
+{"n":751,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north yard. Bess keeps the drum for the push. 8 steps, direct on the left lane, open."}
+{"n":752,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north yard. direct left open. 2 steps. The drum stays for the push."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Clinic roof. Nobody past the north yard. We push in 3 steps. Direct on the left lane, open."}
