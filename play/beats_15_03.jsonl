@@ -767,3 +767,6 @@
 {"n":767,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Clinic roof. Nobody past the south yard. We push in 2 steps. Direct on the left lane, open."}
 {"n":768,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south yard. Ivo keeps the crate for the push. 3 steps, direct on the left lane, open."}
 {"n":769,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south yard. direct left open. 4 steps. The crate stays for the push."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Clinic roof. Nobody past the south yard. We push in 5 steps. Direct on the left lane, open."}
+{"n":771,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south yard. Bess keeps the crate for the push. 6 steps, direct on the left lane, open."}
+{"n":772,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south yard. direct left open. 7 steps. The crate stays for the push."}
