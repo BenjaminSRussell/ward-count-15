@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west court. Ivo keeps the barrel for the push. 5 steps, direct on the left lane, open."}
 {"n":521,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. direct left open. 6 steps. The barrel stays for the push."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at the Lot. Nobody past the west court. We push in 7 steps. Direct on the left lane, open."}
+{"n":523,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west court. Bess keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":524,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. direct left open. 2 steps. The barrel stays for the push."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the west court. We push in 3 steps. Direct on the left lane, open."}
