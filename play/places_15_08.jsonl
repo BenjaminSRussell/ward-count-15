@@ -383,3 +383,6 @@
 {"n":383,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east court. direct left open. 5 steps. The shutter stays for the push."}
 {"n":384,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the east court. We push in 6 steps. Direct on the left lane, open."}
 {"n":385,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the shutter for the push. 7 steps, direct on the left lane, open."}
+{"n":386,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. direct left open. 8 steps. The shutter stays for the push."}
+{"n":387,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Stockyard fence. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
+{"n":388,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the shutter for the push. 3 steps, direct on the left lane, open."}
