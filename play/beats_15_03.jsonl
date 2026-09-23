@@ -104,3 +104,6 @@
 {"n":104,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Switchyard. Nobody past the north yard. We push in 4 steps. Direct on the left lane, open."}
 {"n":105,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard north yard. Nia keeps the radio coil for the push. 5 steps, direct on the left lane, open."}
 {"n":106,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north yard. direct left open. 6 steps. The radio coil stays for the push."}
+{"n":107,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Switchyard. Nobody past the north yard. We push in 7 steps. Direct on the left lane, open."}
+{"n":108,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north yard. Ivo keeps the radio coil for the push. 8 steps, direct on the left lane, open."}
+{"n":109,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north yard. direct left open. 2 steps. The radio coil stays for the push."}
