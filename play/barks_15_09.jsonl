@@ -390,3 +390,6 @@
 {"n":390,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence north court. Matt keeps the hydrant for the push. 4 steps, direct on the left lane, open."}
 {"n":391,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. direct left open. 5 steps. The hydrant stays for the push."}
 {"n":392,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Stockyard fence. Nobody past the north court. We push in 6 steps. Direct on the left lane, open."}
+{"n":393,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north court. Nia keeps the hydrant for the push. 7 steps, direct on the left lane, open."}
+{"n":394,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north court. direct left open. 8 steps. The hydrant stays for the push."}
+{"n":395,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Stockyard fence. Nobody past the north court. We push in 2 steps. Direct on the left lane, open."}
