@@ -379,3 +379,6 @@
 {"n":379,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
 {"n":380,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the hydrant for the push. 3 steps, direct on the left lane, open."}
 {"n":381,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. direct left open. 4 steps. The hydrant stays for the push."}
+{"n":382,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east court. We push in 5 steps. Direct on the left lane, open."}
+{"n":383,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence east court. Bess keeps the hydrant for the push. 6 steps, direct on the left lane, open."}
+{"n":384,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east court. direct left open. 7 steps. The hydrant stays for the push."}
