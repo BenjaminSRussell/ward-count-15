@@ -715,3 +715,6 @@
 {"n":715,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Stockyard fence. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
 {"n":716,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the crate for the push. 3 steps, direct on the left lane, open."}
 {"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. direct left open. 4 steps. The crate stays for the push."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Stockyard fence. Nobody past the east court. We push in 5 steps. Direct on the left lane, open."}
+{"n":719,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east court. Bess keeps the crate for the push. 6 steps, direct on the left lane, open."}
+{"n":720,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east court. direct left open. 7 steps. The crate stays for the push."}
