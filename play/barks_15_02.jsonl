@@ -412,3 +412,6 @@
 {"n":412,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier north yard. Ivo keeps the shutter for the push. 5 steps, direct on the left lane, open."}
 {"n":413,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north yard. direct left open. 6 steps. The shutter stays for the push."}
 {"n":414,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at the pier. Nobody past the north yard. We push in 7 steps. Direct on the left lane, open."}
+{"n":415,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north yard. Bess keeps the shutter for the push. 8 steps, direct on the left lane, open."}
+{"n":416,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north yard. direct left open. 2 steps. The shutter stays for the push."}
+{"n":417,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Clinic roof. Nobody past the north yard. We push in 3 steps. Direct on the left lane, open."}
