@@ -142,3 +142,6 @@
 {"n":142,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east court. direct left open. 8 steps. The radio coil stays for the push."}
 {"n":143,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Clinic roof. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
 {"n":144,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof east court. Ivo keeps the radio coil for the push. 3 steps, direct on the left lane, open."}
+{"n":145,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east court. direct left open. 4 steps. The radio coil stays for the push."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the east court. We push in 5 steps. Direct on the left lane, open."}
+{"n":147,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east court. Bess keeps the radio coil for the push. 6 steps, direct on the left lane, open."}
