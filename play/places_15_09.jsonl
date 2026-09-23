@@ -55,3 +55,6 @@
 {"n":55,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east court. direct left open. 5 steps. The radio coil stays for the push."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the east court. We push in 6 steps. Direct on the left lane, open."}
 {"n":57,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the radio coil for the push. 7 steps, direct on the left lane, open."}
+{"n":58,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. direct left open. 8 steps. The radio coil stays for the push."}
+{"n":59,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Stockyard fence. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
+{"n":60,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the radio coil for the push. 3 steps, direct on the left lane, open."}
