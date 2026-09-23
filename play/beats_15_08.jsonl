@@ -825,3 +825,6 @@
 {"n":825,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Drydock. Nobody past the east court. We push in 6 steps. Direct on the left lane, open."}
 {"n":826,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock east court. Matt keeps the drum for the push. 7 steps, direct on the left lane, open."}
 {"n":827,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. direct left open. 8 steps. The drum stays for the push."}
+{"n":828,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Drydock. Nobody past the east court. We push in 2 steps. Direct on the left lane, open."}
+{"n":829,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock east court. Nia keeps the drum for the push. 3 steps, direct on the left lane, open."}
+{"n":830,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east court. direct left open. 4 steps. The drum stays for the push."}
