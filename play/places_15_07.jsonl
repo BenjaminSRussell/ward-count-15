@@ -201,3 +201,6 @@
 {"n":201,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. direct left open. 6 steps. The plywood stays for the push."}
 {"n":202,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at the Lot. Nobody past the east court. We push in 7 steps. Direct on the left lane, open."}
 {"n":203,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot east court. Bess keeps the plywood for the push. 8 steps, direct on the left lane, open."}
+{"n":204,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east court. direct left open. 2 steps. The plywood stays for the push."}
+{"n":205,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east court. We push in 3 steps. Direct on the left lane, open."}
+{"n":206,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east court. Matt keeps the plywood for the push. 4 steps, direct on the left lane, open."}
