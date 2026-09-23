@@ -681,3 +681,6 @@
 {"n":681,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence south yard. Nia keeps the crate for the push. 7 steps, direct on the left lane, open."}
 {"n":682,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south yard. direct left open. 8 steps. The crate stays for the push."}
 {"n":683,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Stockyard fence. Nobody past the south yard. We push in 2 steps. Direct on the left lane, open."}
+{"n":684,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence south yard. Ivo keeps the crate for the push. 3 steps, direct on the left lane, open."}
+{"n":685,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south yard. direct left open. 4 steps. The crate stays for the push."}
+{"n":686,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south yard. We push in 5 steps. Direct on the left lane, open."}
