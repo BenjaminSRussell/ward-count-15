@@ -537,3 +537,6 @@
 {"n":537,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. direct left open. 6 steps. The barrel stays for the push."}
 {"n":538,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at the Lot. Nobody past the east court. We push in 7 steps. Direct on the left lane, open."}
 {"n":539,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east court. Bess keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":540,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east court. direct left open. 2 steps. The barrel stays for the push."}
+{"n":541,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the east court. We push in 3 steps. Direct on the left lane, open."}
+{"n":542,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east court. Matt keeps the barrel for the push. 4 steps, direct on the left lane, open."}
