@@ -116,3 +116,6 @@
 {"n":116,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Drydock. Nobody past the north yard. We push in 2 steps. Direct on the left lane, open."}
 {"n":117,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north yard. Nia keeps the radio coil for the push. 3 steps, direct on the left lane, open."}
 {"n":118,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north yard. direct left open. 4 steps. The radio coil stays for the push."}
+{"n":119,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Drydock. Nobody past the north yard. We push in 5 steps. Direct on the left lane, open."}
+{"n":120,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north yard. Ivo keeps the radio coil for the push. 6 steps, direct on the left lane, open."}
+{"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north yard. direct left open. 7 steps. The radio coil stays for the push."}
