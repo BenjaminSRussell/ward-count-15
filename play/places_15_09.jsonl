@@ -112,3 +112,6 @@
 {"n":112,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east court. direct left open. 6 steps. The radio coil stays for the push."}
 {"n":113,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at South stair. Nobody past the east court. We push in 7 steps. Direct on the left lane, open."}
 {"n":114,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair east court. Matt keeps the radio coil for the push. 8 steps, direct on the left lane, open."}
+{"n":115,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east court. direct left open. 2 steps. The radio coil stays for the push."}
+{"n":116,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at South stair. Nobody past the east court. We push in 3 steps. Direct on the left lane, open."}
+{"n":117,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair east court. Nia keeps the radio coil for the push. 4 steps, direct on the left lane, open."}
