@@ -289,3 +289,6 @@
 {"n":289,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west court. Nia keeps the plywood for the push. 5 steps, direct on the left lane, open."}
 {"n":290,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. direct left open. 6 steps. The plywood stays for the push."}
 {"n":291,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Switchyard. Nobody past the west court. We push in 7 steps. Direct on the left lane, open."}
+{"n":292,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the plywood for the push. 8 steps, direct on the left lane, open."}
+{"n":293,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. direct left open. 2 steps. The plywood stays for the push."}
+{"n":294,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Switchyard. Nobody past the west court. We push in 3 steps. Direct on the left lane, open."}
