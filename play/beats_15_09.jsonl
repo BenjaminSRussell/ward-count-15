@@ -605,3 +605,6 @@
 {"n":605,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Last Light. Nobody past the north court. We push in 2 steps. Direct on the left lane, open."}
 {"n":606,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north court. Matt keeps the barrel for the push. 3 steps, direct on the left lane, open."}
 {"n":607,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. direct left open. 4 steps. The barrel stays for the push."}
+{"n":608,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Last Light. Nobody past the north court. We push in 5 steps. Direct on the left lane, open."}
+{"n":609,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north court. Nia keeps the barrel for the push. 6 steps, direct on the left lane, open."}
+{"n":610,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north court. direct left open. 7 steps. The barrel stays for the push."}
