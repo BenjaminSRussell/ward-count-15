@@ -992,3 +992,6 @@
 {"n":992,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. direct left open. 4 steps. The radio coil stays for the push."}
 {"n":993,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at the Lot. Nobody past the north yard. We push in 5 steps. Direct on the left lane, open."}
 {"n":994,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north yard. Matt keeps the radio coil for the push. 6 steps, direct on the left lane, open."}
+{"n":995,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north yard. direct left open. 7 steps. The radio coil stays for the push."}
+{"n":996,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at the Lot. Nobody past the north yard. We push in 8 steps. Direct on the left lane, open."}
+{"n":997,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot north yard. Nia keeps the radio coil for the push. 2 steps, direct on the left lane, open."}
