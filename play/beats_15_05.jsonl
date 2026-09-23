@@ -624,3 +624,6 @@
 {"n":624,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Switchyard. Nobody past the west court. We push in 4 steps. Direct on the left lane, open."}
 {"n":625,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west court. Nia keeps the barrel for the push. 5 steps, direct on the left lane, open."}
 {"n":626,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. direct left open. 6 steps. The barrel stays for the push."}
+{"n":627,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Switchyard. Nobody past the west court. We push in 7 steps. Direct on the left lane, open."}
+{"n":628,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":629,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. direct left open. 2 steps. The barrel stays for the push."}
