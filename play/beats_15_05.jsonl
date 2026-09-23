@@ -789,3 +789,6 @@
 {"n":789,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Switchyard. Nobody past the west court. We push in 8 steps. Direct on the left lane, open."}
 {"n":790,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west court. Matt keeps the crate for the push. 2 steps, direct on the left lane, open."}
 {"n":791,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west court. direct left open. 3 steps. The crate stays for the push."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Switchyard. Nobody past the west court. We push in 4 steps. Direct on the left lane, open."}
+{"n":793,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west court. Nia keeps the crate for the push. 5 steps, direct on the left lane, open."}
+{"n":794,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. direct left open. 6 steps. The crate stays for the push."}
